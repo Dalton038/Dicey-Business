@@ -54,7 +54,7 @@ function sumDice(){
    })
   alert(`The sum is ${sum}`)
 };
-//could not figure out why sum just kept 0
+//could not figure out why sum just kept getting 0
 
 
 
