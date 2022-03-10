@@ -1,0 +1,48 @@
+
+   .new-die {
+    font-weight: bold;
+    width: 100px;
+    height: 100px;
+    position: inherit;
+    display: inline-block;
+    margin: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    border: white solid 2px;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 10px;
+    background-color: darkred;
+   font-size: 50px;
+ 
+  }
+  
+  #total {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 35px;
+      padding: 1em;
+      color: red;
+    }
+
+ body {
+  background-image: url(https://i.pinimg.com/originals/0a/97/20/0a97201435392b116ea3ef9ac7ce76e0.jpg)
+}
+
+#Generate {
+  color: darkred;
+padding-left: 5px;
+font-weight: bolder;
+}
+
+#Roll {
+  color: darkred;
+  padding-left: 20px;
+  font-weight: bolder;
+} 
+
+  #Sum {
+    color: darkred;
+  padding-left: 12px;
+  font-weight: bolder;
+}
+  
+
