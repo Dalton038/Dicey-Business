@@ -1,5 +1,4 @@
-
-   .new-die {
+  .new-die {
     font-weight: bold;
     width: 100px;
     height: 100px;
@@ -16,14 +15,7 @@
  
   }
   
-  #total {
-      font-family: 'Times New Roman', Times, serif;
-      font-size: 35px;
-      padding: 1em;
-      color: red;
-    }
-
- body {
+body {
   background-image: url(https://i.pinimg.com/originals/0a/97/20/0a97201435392b116ea3ef9ac7ce76e0.jpg)
 }
 
@@ -45,4 +37,3 @@ font-weight: bolder;
   font-weight: bolder;
 }
   
-
